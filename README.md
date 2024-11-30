@@ -8,7 +8,9 @@
 
 ## Running project
 In Terminal
-> flutter pub get
+> flutter pub get 
+
+then
 > flutter run
 
 ## Usage of packages
